@@ -1,3 +1,3 @@
-# Paper List
+# Resources
 
-Recommendation System
+Paper List
